@@ -1,0 +1,1 @@
+This bot is based on Nonebot 2 and go-cqhttp
